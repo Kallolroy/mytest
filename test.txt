@@ -5,3 +5,4 @@ this is master
 this is another text testing branch
 
 fixed issue001
+fixed issue001 latest
