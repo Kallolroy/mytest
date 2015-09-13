@@ -4,4 +4,9 @@ this is master
 
 this is another text testing branch
 
+<<<<<<< HEAD
 this is hotfix
+=======
+fixed issue001
+fixed issue001 latest
+>>>>>>> issue001
